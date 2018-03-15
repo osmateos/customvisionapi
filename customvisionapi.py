@@ -1,6 +1,6 @@
 ########### Python 2.7 #############
 ''' This example shows how to use the custom api programatically
-    No sdk library is needed
+    No sdk library is needed.
 '''
 import sys
 import httplib
